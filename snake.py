@@ -12,7 +12,7 @@ biting_sound = pygame.mixer.Sound('cartoon_bite_sound_effect.mp3')
 pygame.font.init()
 font = pygame.font.SysFont("comicsansms", 25)
 
-#Screen display settings
+#Screen display setup
 WIDTH = 600
 HEIGHT = 650
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
