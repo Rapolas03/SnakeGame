@@ -1,5 +1,5 @@
 import pygame, random
-
+# initialize 
 pygame.init()
 
 #Sound effects LETS GOOO
